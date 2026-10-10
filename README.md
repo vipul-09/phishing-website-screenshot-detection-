@@ -171,7 +171,7 @@ Phishing-Website-Screenshot-Detection/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Diviv07/phishing-website-screenshot-detection.git
+git clone https://github.com/vipul-09/phishing-website-screenshot-detection-.git
 cd phishing-website-screenshot-detection
 ```
 
